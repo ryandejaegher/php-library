@@ -3,7 +3,10 @@
   "autoload": {
     "psr-4": {
       "Ryandejaegher\\PhpLibrary\\": "includes/"
-    }
+    },
+    "classmap": [
+      "includes/"
+    ]
   },
   "authors": [
     {

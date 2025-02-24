@@ -1,0 +1,15 @@
+{
+  "name": "ryandejaegher/php-library",
+  "autoload": {
+    "psr-4": {
+      "Ryandejaegher\\PhpLibrary\\": "includes/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Ryan Dejaegher",
+      "email": "dejaegher.ryan@gmail.com"
+    }
+  ],
+  "require": {}
+}
